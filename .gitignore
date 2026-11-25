@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.pcap
+*.pcapng
+*.csv
+*.pkl
+sweepwork/
+mimicwork/
+cicwork*/
+testbed/
